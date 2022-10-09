@@ -45,7 +45,7 @@ global.location = "Sri Lanka, Anuradhapura, Rajanganaya" //ur location
 //BOT COSTOMIZEDTATION
 global.owner = ['94761676948']
 global.ownertag = '94761676948' //ur tag number
-global.botnumber = '94761676948' //Add your Bot Number For Log
+global.botnumber = '94704603640' //Add your Bot Number For Log
 global.botname = '𝗠𝗥.𝗔𝗥𝗢𝗦𝗛𝗔💝𝗕𝗢𝗧' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
